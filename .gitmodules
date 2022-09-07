@@ -1,0 +1,3 @@
+[submodule "course-mp-beginners-typescript-tutorial"]
+	path = course-mp-beginners-typescript-tutorial
+	url = https://github.com/spfave/course-mp-beginners-typescript-tutorial.git
