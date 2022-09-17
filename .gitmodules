@@ -1,3 +1,6 @@
 [submodule "course-mp-beginners-typescript-tutorial"]
 	path = course-mp-beginners-typescript-tutorial
 	url = https://github.com/spfave/course-mp-beginners-typescript-tutorial.git
+[submodule "course-mp-zod-tutorial"]
+	path = course-mp-zod-tutorial
+	url = https://github.com/spfave/course-mp-zod-tutorial.git
