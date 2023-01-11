@@ -4,3 +4,6 @@
 [submodule "course-mp-zod-tutorial"]
 	path = course-mp-zod-tutorial
 	url = https://github.com/spfave/course-mp-zod-tutorial.git
+[submodule "course-mp-type-transformations-workshop"]
+	path = course-mp-type-transformations-workshop
+	url = https://github.com/spfave/course-mp-type-transformations-workshop.git
