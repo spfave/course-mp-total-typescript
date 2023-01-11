@@ -4,3 +4,4 @@
 ## **Modules**
 1. [Beginners TypeScript](https://github.com/spfave/course-mp-beginners-typescript-tutorial)  
 2. [Zod Tutorial](https://github.com/spfave/course-mp-zod-tutorial)  
+3. [Type Transformations](https://github.com/spfave/course-mp-type-transformations-workshop)  
