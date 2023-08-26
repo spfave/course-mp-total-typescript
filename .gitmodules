@@ -7,3 +7,6 @@
 [submodule "course-mp-type-transformations-workshop"]
 	path = course-mp-type-transformations-workshop
 	url = https://github.com/spfave/course-mp-type-transformations-workshop.git
+[submodule "course-mp-react-with-typescript"]
+	path = course-mp-react-with-typescript
+	url = https://github.com/spfave/course-mp-react-with-typescript
