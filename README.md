@@ -7,4 +7,5 @@
 3. [React with TypeScript](https://github.com/spfave/course-mp-react-with-typescript)
 
 ## **Modules: Core Volume**
-1. [Type Transformations](https://github.com/spfave/course-mp-type-transformations-workshop)  
+1. [Type Transformations](https://github.com/spfave/course-mp-type-transformations-workshop)
+2. [TypeScript Generics](https://github.com/spfave/course-mp-ts-generics-workshop)
