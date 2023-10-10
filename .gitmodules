@@ -10,3 +10,6 @@
 [submodule "course-mp-react-with-typescript"]
 	path = course-mp-react-with-typescript
 	url = https://github.com/spfave/course-mp-react-with-typescript
+[submodule "course-mp-ts-generics-workshop"]
+	path = course-mp-ts-generics-workshop
+	url = https://github.com/spfave/course-mp-ts-generics-workshop
