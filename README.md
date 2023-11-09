@@ -8,6 +8,7 @@
 ## **Modules: Core Volume**
 1. [Type Transformations](https://github.com/spfave/course-mp-type-transformations-workshop)
 2. [TypeScript Generics](https://github.com/spfave/course-mp-ts-generics-workshop)
+3. [Advance TypeScript Patterns](https://github.com/spfave/course-mp-adv-ts-patterns)
 
 ## **Modules: Select Topics**
 1. [React with TypeScript](https://github.com/spfave/course-mp-react-with-typescript)

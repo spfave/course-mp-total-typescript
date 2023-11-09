@@ -13,3 +13,6 @@
 [submodule "course-mp-ts-generics-workshop"]
 	path = course-mp-ts-generics-workshop
 	url = https://github.com/spfave/course-mp-ts-generics-workshop
+[submodule "course-mp-adv-ts-patterns"]
+	path = course-mp-adv-ts-patterns
+	url = https://github.com/spfave/course-mp-adv-ts-patterns.git
